@@ -1,4 +1,5 @@
 # Exam #1: "StudyPlan"
+# Voto: 30L
 ## Student: s296114 BARLETTA FRANCESCO PIO 
 
 ## React Client Application Routes
